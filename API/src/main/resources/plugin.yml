@@ -1,0 +1,4 @@
+name: API
+version: '${project.version}'
+main: com.person98.api.API
+api-version: '1.20'

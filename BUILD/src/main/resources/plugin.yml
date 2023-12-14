@@ -1,0 +1,4 @@
+name: BUILD
+version: '${project.version}'
+main: com.person98.build.BUILD
+api-version: '1.20'

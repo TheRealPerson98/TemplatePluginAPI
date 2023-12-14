@@ -1,0 +1,4 @@
+name: MAIN
+version: '${project.version}'
+main: com.person98.main.MAIN
+api-version: '1.20'
